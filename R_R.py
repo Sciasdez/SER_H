@@ -121,7 +121,7 @@ def predict(outputs):
     return predictions
 
 # Set the number of epoch
-epoch = 3
+epoch = 4
 
 # Start training
 model.train()
